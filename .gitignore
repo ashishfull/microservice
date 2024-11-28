@@ -1,1 +1,10 @@
 /.metadata/
+*.class
+*.log
+*.jar
+*.war
+*.iml
+/target/
+/out/
+.idea/
+.vscode/
